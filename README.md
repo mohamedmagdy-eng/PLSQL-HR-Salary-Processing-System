@@ -29,3 +29,7 @@ It retrieves employee data from the HR schema and calculates:
 - Oracle SQL
 - PL/SQL
 - HR Schema
+
+  ## Output
+
+  ![Output](1.png)
