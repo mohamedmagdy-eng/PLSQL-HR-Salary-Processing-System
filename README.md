@@ -32,4 +32,4 @@ It retrieves employee data from the HR schema and calculates:
 
   ## Output
 
-  ![Output](1.png)
+  ![Output](2.png)
