@@ -13,15 +13,11 @@ It retrieves employee data from the HR schema and calculates:
 
 ##  Features
 
-- Dynamic employee input
-- Department-based bonus calculation:
-  - Dept 10 → 15%
-  - Dept 20 → 10%
-  - Others → 5%
-- Extra $500 support for salaries below $3000
-- Clean formatted output
-- Exception handling
-
+- **PL/SQL** (Procedures & Exception Handling)
+- **SQL** (DML Operations)
+- **Database Design** (Relational Integrity)
+- **Oracle SQL Developer**
+- **Exception handling**
 ---
 
 ##  Technologies Used
